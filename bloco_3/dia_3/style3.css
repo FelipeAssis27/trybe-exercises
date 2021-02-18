@@ -38,19 +38,14 @@ div:nth-child(5) {
 div:hover {
     border-style: ridge;
 }
-.fonte:nth-child(2n+1) {
-    font-family: Impact;
-    font-style: italic;
-    font-size: 35px;
-    font-weight:bold;
-    margin-left: 10px;
-    color: rgb(97, 95, 95);
-}
-.fonte:nth-child(2n) {
+h3 {
     font-family: Impact;
     font-style: normal;
     font-size: 35px;
     font-weight:bold;
     margin-left: 10px;
     color: rgb(97, 95, 95);
+}
+h3.odd {
+    font-style: italic;
 }
