@@ -1,0 +1,31 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+body {
+    font-size: 16px;
+    font-style: italic;
+    text-align: justify;
+}
+ul {
+    color: rgb(255, 400, 200);
+}
+.cor_favorita {
+    background-color: rgb(224, 201, 201);
+    text-decoration: underline;
+}
+p {
+    font-weight:600;
+    font-size: 3em;
+    line-height: 40px;
+}
+#amrl {
+    background-color: yellow;
+}
+#vmlh {
+    background-color: tomato;
+}
+#mrrm {
+    background-color: brown;
+}
