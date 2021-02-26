@@ -1,0 +1,16 @@
+h1, p {
+    text-align: center;
+}
+ol {
+    background-color: cornsilk;
+    color: darkgray;
+}
+li:hover {
+    background-color: darksalmon;
+} 
+li:active {
+    color: dodgerblue;
+}
+ol, ul {
+    list-style: none;
+}
