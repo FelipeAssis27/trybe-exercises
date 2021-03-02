@@ -9,3 +9,5 @@ function perimetro (base, altura) {
 
 console.log(area(8,10));
 console.log(perimetro(8,10));
+
+
