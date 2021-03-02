@@ -1,0 +1,36 @@
+ol {
+    background-color: rgb(212, 196, 104);
+}
+ol li:nth-child(2n) {
+    color:teal;
+}
+ol li.nprimos {
+    text-transform: uppercase;
+}
+h1, h3 {
+    color: tomato;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px; 
+}
+li {
+    font-size: 20px;
+}
+em {
+    font-weight: bold;
+}
+#python {
+    color: rgb(76, 76, 207);
+}
+ul li.java {
+    color: rgb(76, 76, 207);
+    background-color:fuchsia;
+}
+ul li a:hover {
+    color: darksalmon;
+    font-weight: bolder;
+}
